@@ -2,11 +2,22 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background: #80deea;
+	height: 40px;
 
 }
 
 li, a {
-	display: block;
+	display: inline;
 	text-decoration: none;
+	padding: 0px 20px 0px 20px;
+	color: black;
+	
+
+
+}
+li, a:hover{
+	
+  	color: white;
 
 }
