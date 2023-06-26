@@ -8,7 +8,7 @@
  body {
  	font-family: 'Fredoka', sans-serif;
  }
- p{
+ p, span{
  	font-family: 'Ysabeau Infant', sans-serif;
  }
 
@@ -59,4 +59,9 @@
 	padding: 20px;
 	font-size: 20px;
 	text-align: center;
+}
+
+#dataScience{
+	border: none;
+	transition: border 2s;
 }

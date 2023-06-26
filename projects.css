@@ -11,10 +11,11 @@
     transition: all 300ms ease-in;
 }
 
+
 .button:hover{
 	cursor: pointer;
 	transform: scale(1.1);
 }
-p{
+p, span{
 	font-family: 'Ysabeau Infant', sans-serif;
 }
