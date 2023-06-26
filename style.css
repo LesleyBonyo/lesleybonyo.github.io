@@ -65,3 +65,7 @@
 	border: none;
 	transition: border 2s;
 }
+
+#dataScience:hover {
+	border: 1px solid #D1D3D4;
+}
