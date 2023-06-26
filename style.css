@@ -69,7 +69,7 @@
 #dataScience:hover {
 	border: 1px solid #D1D3D4;
 }*/
-.row {
+body {
 	animation: transitionIn 0.75s;
 }
 @keyframes transitionIn{
